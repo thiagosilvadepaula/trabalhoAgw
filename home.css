@@ -1,14 +1,20 @@
 #cabecalhoHome {
-    background: #87CEFA;
+    background: #1E90FF;
 }
 
 #titulo1 {
     text-align: center;
-    color: white;
     font-size: 40px;
+    color: white;
 }
 
 #menuHome {
     text-align: center;
-    font: 10px;
+    font-size: 20px;
+}
+
+#videoHome {
+    width: 1280px;
+    height: 720px;
+    
 }
