@@ -1,2 +1,0 @@
-# trabalhoAgw
-Trabalho de AGW
