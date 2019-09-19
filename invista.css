@@ -8,18 +8,17 @@
     color: white;
 }
 
+body {
+    background-color: rgb(44, 44, 44); 
+}
+
 #menuHome {
     text-align: center;
     font-size: 20px;
 }
 
-
-#corpo{
-    background-color: black;
-}
-    
-#texto1{
+#texto01 {
     text-align: center;
-    color: rgb(154, 226, 38);
-    font-size: 60px;
+    color: white;
+    font-size: 50px;
 }
