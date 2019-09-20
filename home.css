@@ -2,7 +2,7 @@
     text-align: center;
     font-size: 50px;
     color: white;
-    font-family: serif;
+    font-family: 
 }
 
 #menuHome {
@@ -30,4 +30,12 @@
 #videoY {
     width: 1100px;
     height: 600px;
+}
+
+#titulo3 {
+    text-align: center;
+}
+
+#luz {
+    width: 100px;
 }
