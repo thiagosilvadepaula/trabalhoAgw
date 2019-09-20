@@ -1,11 +1,10 @@
-#cabecalhoHome {
-    background: #1E90FF;
-}
+
 
 #titulo1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
+    font-family: serif;
 }
 
 #menuHome {
@@ -14,6 +13,23 @@
 }
 
 #videoHome {
-    width: 1280px;
-    height: 720px;
+    width: 1100px;
+    height: 600px;
+}
+
+#titulo2 {
+    text-align: center;
+}
+
+#subtitulo1 {
+    text-align: center;
+}
+
+#corpo {
+    background-image: linear-gradient(to right, rgba(226, 204, 204, 0), rgba(56,176,222));
+}
+
+#videoY {
+    width: 1100px;
+    height: 600px;
 }
