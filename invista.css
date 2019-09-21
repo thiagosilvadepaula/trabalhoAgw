@@ -1,41 +1,39 @@
-/*Cabeçalho*/
-#cabecalhoInv {
-    background: #1E90FF;
-}
 
-/*Título Cabeçalho*/
+
+/*Título Cabeçalho(Tem que ser de Acordo com o Home)*/
 #titulo1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
+    font-family: serif;
 }
 
-/*Copo do site*/
-body {
-    background-color: #2e2828; 
-}
-
-/*Menu*/
+/*Menu(De acordo com o Home)*/
 #menuInv {
     text-align: center;
     font-size: 20px;
 }
 
+/*Copo do site (Tem que ser de acordo com o home)*/
+body {
+    background-image: linear-gradient(to right, rgba(226, 204, 204, 0), rgba(56,176,222)); 
+}
+
 /*Área de texto*/
 
-#texto00{
+#areaText{
     margin-top: 10px;
 }
 
 /*"Título"*/
 #texto01 {
     text-align: justify;
-    color: white;
-    font-size: 30px;
-    line-height: 0px;
-    margin: 40px;
-    width: 50%;
     float: left;
+    color: black;
+    font-size: 80px;
+    line-height: 70px;
+    margin-left: 400px;
+    width: 25%;
 
 }
 
@@ -43,11 +41,19 @@ body {
 #texto02 {
     text-align: justify;
     float: left;
-    color: white;
-    font-size: 20px;
-    margin-left: 40px;
-    margin-top: 0px;
+    color: black;
+    font-size: 25px;
+    margin-top: 10px;
     line-height: 20px;
-    width: 50%;
+    margin-left: 400px;
+    margin-right: 1000px;
+    width: 25%;
 
+}
+
+#gif{
+    margin-left: 600px;
+    margin-top: 10px;
+    width: 300px; /* largura */
+    height: 300px; /* altura */
 }
