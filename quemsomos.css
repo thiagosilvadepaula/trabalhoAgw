@@ -16,3 +16,9 @@
 #corpo {
     background-image: linear-gradient(to right, rgba(226, 204, 204, 0), rgba(56,176,222));
 }
+
+.comp {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    text-align: center;
+}
